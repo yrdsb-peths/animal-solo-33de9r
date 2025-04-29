@@ -14,6 +14,6 @@ public class MyWorld extends World {
         Apple apple = new Apple();
         int x = Greenfoot.getRandomNumber(600);
         int y = Greenfoot.getRandomNumber(300);
-        addObject(apple, 300, 0);
+        addObject(apple, x, y);
     }
 }
