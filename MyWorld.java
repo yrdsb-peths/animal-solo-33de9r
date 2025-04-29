@@ -6,5 +6,8 @@ public class MyWorld extends World {
         
         Elephant el = new Elephant();
         addObject(el, 300, 200);
+        
+        Apple apple = new Apple();
+        addObject(apple, 300, 0);
     }
 }
