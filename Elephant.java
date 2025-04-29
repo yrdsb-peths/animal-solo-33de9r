@@ -14,7 +14,7 @@ public class Elephant extends Actor
      */
     
     public Elephant() {
-        setImage("images/Elephant.png");
+        setImage("images/elephant.png");
     }
     
     public void act()
